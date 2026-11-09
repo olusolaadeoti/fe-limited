@@ -1,0 +1,1 @@
+export function NotFoundPage() { return <main className="section-wrap"><div className="eyebrow dark">FINANCING ENTERPRISE LIMITED</div><h2>Let’s find your way forward.</h2><p>This page could not be found.</p><a className="button green" href="/">Return to the homepage →</a></main> }
